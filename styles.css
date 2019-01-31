@@ -1,3 +1,17 @@
-h1{
+#titulo{
   text-align: center;
+  font-family: serif;
+}
+
+.encabezado{
+  text-decoration: underline;
+  color: darkorange;
+}
+
+body{
+  background-color: grey;
+}
+
+.lista{
+  color: blue;
 }
