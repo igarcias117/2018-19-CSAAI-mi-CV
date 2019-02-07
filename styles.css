@@ -1,6 +1,8 @@
 #titulo{
   text-align: center;
   font-family: serif;
+  border-style: inset;
+  border-color: orange;
 }
 
 .encabezado{
@@ -10,8 +12,17 @@
 
 body{
   background-color: grey;
+  margin: 40px;
 }
 
 .lista{
-  color: blue;
+  background-color: lightgrey;
+}
+
+a{
+  font-family:"Comic Sans MS", sans-serif;
+}
+
+#fotocv{
+  
 }
